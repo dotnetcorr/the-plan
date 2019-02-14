@@ -1,2 +1,2 @@
-# the-plan
+# And they have a plan...
 Planning and tracking self-development and education
