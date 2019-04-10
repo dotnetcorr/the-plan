@@ -1,5 +1,5 @@
 - [ ] Read 'Grokking algorithms' by Aditya Bhargava
-  * [ ] Chapter 1. Introduction to Algorithms
+  * [x] Chapter 1. Introduction to Algorithms
   * [ ] Chapter 2. Selection Sort
   * [ ] Chapter 3. Recursion
   * [ ] Chapter 4. Quicksort
