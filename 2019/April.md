@@ -10,3 +10,23 @@
   * [x] Chapter 9. Dynamic Programming
   * [x] Chapter 10. K-nearest neighbors
   * [x] Chapter 11. Where to Go Next
+
+
+- [ ] Read 'Grokking Deep Learning' by Andrew W. Trask
+  * [ ] Introducing deep learning
+  * [ ] Fundamental concepts
+  * [ ] Forward propagation
+  * [ ] Gradient descent
+  * [ ] Generalizing gradiend descent
+  * [ ] Intro to backpropagation
+  * [ ] Picture NNs
+  * [ ] Intro to regularization & batching
+  * [ ] Activation functions
+  * [ ] Intro to convolutional NNs
+  * [ ] NNs that understand language
+  * [ ] Recurrent layers for variable-length data
+  * [ ] Deep learning framework
+  * [ ] Long short-term memory
+  * [ ] Federated Learning
+  * [ ] Where to go from here
+
