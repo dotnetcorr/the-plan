@@ -15,7 +15,7 @@
 - [ ] Read 'Grokking Deep Learning' by Andrew W. Trask
   * [x] Introducing deep learning
   * [x] Fundamental concepts
-  * [ ] Forward propagation
+  * [x] Forward propagation
   * [ ] Gradient descent
   * [ ] Generalizing gradiend descent
   * [ ] Intro to backpropagation
