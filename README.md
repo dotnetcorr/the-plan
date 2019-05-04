@@ -2,8 +2,7 @@
 Planning and tracking self-development and education.
 
 ## 2019
-### [Current month](2019/April.md)
-
+### [Current month](2019/May.md)
 
 ## Backlogs
 ### [High-level tasks backlog (need decomposition)](backlog/high_level_tasks.md)
